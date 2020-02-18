@@ -704,19 +704,19 @@ li.list a{
     background: url(image/mypic01.jpg);
 }
 .vegetable_pic2 {
-    background: url(image/mypic02.jpg);
+    background: url(image/mypic06.jpg);
 }
 .vegetable_pic3 {
-    background: url(image/mypic03.jpg);
+    background: url(image/mypic02jpg);
 }
 .vegetable_pic4 {
-    background: url(image/mypic04.jpg);
-}
-.vegetable_pic5 {
     background: url(image/mypic05.jpg);
 }
+.vegetable_pic5 {
+    background: url(image/mypic04.jpg);
+}
 .vegetable_pic6 {
-    background: url(image/mypic06.jpg);
+    background: url(image/mypic03.jpg);
 }
 .vegetable_pic1,.vegetable_pic2,.vegetable_pic3,.vegetable_pic4,.vegetable_pic5,.vegetable_pic6 {
     background-repeat: no-repeat;
