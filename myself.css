@@ -56,7 +56,7 @@ nav{
     height: 6%;
     display: flex;
     align-items: center;
-    background-color: #2d2e2fd1;
+    background-color: #2d2e2ff2;
     z-index: 2;
     position: fixed;
 }
@@ -733,11 +733,11 @@ li.list a{
 
 
 .content_logo{
-    background: url(image/MK02.png);
-    background-repeat: no-repeat;
-    height: 12%;
-    width: 35%;
+    background: url(image/MK02.png) no-repeat;
+    height: 45px;
+    width: 45px;
     display: inline-block;
+    border-radius: 50%;
 }
 .content_us {
     height: 35%;
