@@ -53,10 +53,12 @@ nav{
     /*position: fixed;*/
     width: 100%;
     padding:6px;
-    height: 7%;
+    height: 6%;
     display: flex;
     align-items: center;
-    background-color: #ffffff5e;
+    background-color: #2d2e2fd1;
+    z-index: 2;
+    position: fixed;
 }
 ul.mymenu{
     display: flex;
@@ -76,7 +78,7 @@ li.list:hover{
 	font-weight: bold;
 }
 li.list a{
-	color:#000000c2;
+	color:aliceblue;
 	text-decoration:none;
 	font-weight: bold;
 }
@@ -91,13 +93,12 @@ li.list a{
 .logo img{
     width: 64px;
     height: auto;
-
+    border-radius: 45%;
 }
 .banner01{
-	background: url("image/banner.jpg");
+	background: url("image/banner.jpg") no-repeat fixed center center;
 	height: 85%;
 	width:100%;
-    background-repeat: no-repeat;
 }
 /*
 .information01{
