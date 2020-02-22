@@ -820,6 +820,15 @@ span.fans {
    .div1_description{
        background-position: center center; 
    }
+    .content_text1{
+       font-size: 1.35vw;
+    }
+    .content_text2,.price-text, .price02-text, .price03-text,.delivery-text{
+       font-size: 1.4vw;
+    }
+    .delivery-title{
+       font-size: 2.5vw;
+    }
 /*bottom & footer*/
    .vegetable01{
        display: none;
